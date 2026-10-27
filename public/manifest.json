@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "HĐV TV & HĐV Remote Ecosystem",
+  "short_name": "HĐV Remote",
+  "description": "Hệ sinh thái Smart TV Hồn Đất Việt và điều khiển từ xa bằng giọng nói tiếng Việt cho Samsung Smart TV UA40K5300.",
+  "start_url": "/?mode=remote",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080b14",
+  "theme_color": "#080b14",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

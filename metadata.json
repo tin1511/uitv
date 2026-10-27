@@ -1,0 +1,10 @@
+{
+  "name": "HĐV TV & HĐV Remote Ecosystem",
+  "description": "Hệ sinh thái Smart TV Hồn Đất Việt (HĐV TV 16:9, HĐV Remote PWA, HĐV Bridge LAN & Tìm kiếm giọng nói Tiếng Việt thông minh) tối ưu cho Samsung Smart TV UA40K5300.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
